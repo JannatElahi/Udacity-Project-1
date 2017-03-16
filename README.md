@@ -1,8 +1,7 @@
 # Udacity-Project-1
 README FILE
 
-Fresh tomatoes is a website that shows movie trailers for children. It is a great way to look at movie trailers from youtube. There is a combination of few movies for 
-children along with movie title, poster image and some description of the movie(story line) and the actual youtube trailer. 
+Fresh tomatoes is a website that shows movie trailers for children. It is a great way to look at movie trailers from youtube. There is a combination of few movies for children along with movie title, poster image and some description of the movie(story line) and the actual youtube trailer. 
 
 There are in total of three files included to make this website. 
           1) media.py
@@ -27,3 +26,5 @@ This file is written in html.There are couple of tags used such as head, body,pa
 Head tag was used to make the title and the body tag was used for making paragraphs. Attaching links and it does all the formatting of the website. 
 This is also responsible for the body of the website as to what content 
 will be on the websites. Tags are assigned on this file such as H1, H2. There is a method open movies page which is actually going to open up the website in the webbrowser.
+
+In order to make the website work, run the test_entertainment file and this will open up the website in your webbrowser.You will be able to watch trailers of movies easily.
