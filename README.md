@@ -26,5 +26,4 @@ Then comes the test_freshtomatoes.py
 This file is written in html.There are couple of tags used such as head, body,paragraph.
 Head tag was used to make the title and the body tag was used for making paragraphs. Attaching links and it does all the formatting of the website. 
 This is also responsible for the body of the website as to what content 
-will be on the websites. Tags are assigned on this file such as H1, H2. There is a method open movies page which is actually going to open up the website 
-in the webbrowser.
+will be on the websites. Tags are assigned on this file such as H1, H2. There is a method open movies page which is actually going to open up the website in the webbrowser.
